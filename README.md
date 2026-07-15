@@ -67,23 +67,17 @@ The following analyses were performed:
 
 Shows how book prices are distributed.
 
-![Price Distribution](images/price_distribution.png)
-
 ---
 
 ### Rating Distribution
 
 Displays the number of books for each rating category.
 
-![Rating Distribution](images/rating_distribution.png)
-
 ---
 
 ### Price vs Rating
 
 Shows the relationship between book prices and ratings.
-
-![Price vs Rating](images/price_vs_rating.png)
 
 ---
 
